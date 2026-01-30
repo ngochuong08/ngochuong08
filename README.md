@@ -260,19 +260,6 @@ Custom-trained chatbot with personality and domain-specific knowledge.
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ngochuong08&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ngochuong08&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ngochuong08&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngochuong08&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ngochuong08&theme=radical&hide_border=true)
-
 </div>
 
 ---
@@ -348,23 +335,13 @@ expertise = {
 
 ---
 
-## 💡 Fun Facts
-
-- 🌙 I prefer coding in dark mode
-- 📚 Always learning new technologies
-- 🎯 Love solving complex algorithmic problems
-- 🤝 Open to collaboration on ML and AI projects
-- ☕ Powered by coffee and curiosity
-
----
-
 <div align="center">
 
 ### 💼 Open for opportunities in Machine Learning, AI, and Full-Stack Development
 
 **⭐ Feel free to explore my repositories and don't forget to star ⭐ them if you find something interesting!**
 
-![Snake animation](https://github.com/ngochuong08/ngochuong08/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/ngochuong08/ngochuong08/output/github-contribution-grid-snake.svg)
 
 ---
 
