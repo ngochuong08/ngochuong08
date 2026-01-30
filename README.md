@@ -6,7 +6,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ngochuong08&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ngochuong08)
 [![GitHub Followers](https://img.shields.io/github/followers/ngochuong08?label=Followers&style=social)](https://github.com/ngochuong08)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chivas-nguyen/)
 
 </div>
 
