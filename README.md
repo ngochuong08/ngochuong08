@@ -1,15 +1,370 @@
-<h1 align="center">Hello World, I'm Huong</h1>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ngochuong08&label=Profile%20views&color=0e75b6&style=flat" alt="ngochuong08" /> </p>
+# 👋 Hello World, I'm Ngọc Hương
 
-<p align="left">
-</p>
+### 🚀 Machine Learning Engineer | Full-Stack Developer | AI Enthusiast
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngochuong08&show_icons=true&locale=en&layout=compact" alt="ngochuong08" /></p>
+[![Profile Views](https://komarev.com/ghpvc/?username=ngochuong08&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ngochuong08)
+[![GitHub Followers](https://img.shields.io/github/followers/ngochuong08?label=Followers&style=social)](https://github.com/ngochuong08)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ngochuong08&show_icons=true&locale=en" alt="ngochuong08" /></p>
+</div>
 
+---
 
-<a>[![GitHub Streak](https://streak-stats.demolab.com?user=ngochuong08&theme=default)](https://streak-stats.demolab.com?user=ngochuong08)</a>
+## 🎯 About Me
+
+🏠 **Working from home** | 📍 **Viet Nam**
+
+Passionate developer with expertise in **Machine Learning**, **Web Development**, and **Cloud Technologies**. I love building intelligent systems that solve real-world problems, from cybersecurity applications to data-driven dashboards.
+
+- 🔭 Currently working on **Network Traffic Monitoring & Banking AI Solutions**
+- 🌱 Learning **Advanced Deep Learning, NLP & RAG Systems**
+- 💡 Interested in **AI/ML, NLP, Cybersecurity, and Distributed Systems**
+- 🏆 **Arctic Code Vault Contributor**
+- 💬 Ask me about **Python, Machine Learning, NLP, Deep Learning, and AI Systems**
+
+---
+
+## 🔥 Featured Projects
+
+### 😊 [Sentiment Analysis - Mobile Banking UX](https://github.com/ngochuong08/Sentiment_Analysis_User_Experience_Mobile_Banking)
+
+**NLP-powered User Experience Analysis**
+
+<div align="left">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-00ADD8?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+</div>
+
+Sentiment analysis system for analyzing user feedback and reviews of mobile banking applications.
+
+**Highlights:**
+
+- 🎭 **Multi-class sentiment classification** with deep learning
+- 📱 **Mobile banking domain-specific** models
+- 📊 **Comprehensive UX insights** from user reviews
+- 🔬 **Advanced text preprocessing** and feature extraction
+- 📈 **Visualization dashboard** for sentiment trends
+
+---
+
+### 🏦 [Banking RAG Application](https://github.com/ngochuong08/banking-rag-app)
+
+**Retrieval-Augmented Generation for Banking Services**
+
+<div align="left">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
+
+</div>
+
+Intelligent banking assistant using RAG architecture for accurate and context-aware responses.
+
+**Key Features:**
+
+- 🤖 **RAG-based Q&A system** for banking queries
+- 📚 **Knowledge base integration** with vector embeddings
+- 💬 **Natural language interface** for customer service
+- 🎯 **High accuracy responses** with source citations
+- 🔒 **Secure data handling** for financial information
+
+---
+
+### 🚦 [Road Traffic Anomaly Detection](https://github.com/ngochuong08/road_traffic_anomaly_detection)
+
+**Computer Vision & ML for Traffic Analysis**
+
+<div align="left">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+</div>
+
+Intelligent traffic monitoring system detecting anomalies and unusual patterns in road traffic.
+
+**Features:**
+
+- 🚗 **Real-time traffic analysis** with computer vision
+- 🎯 **Anomaly detection algorithms** for accident prevention
+- 📹 **Video processing pipeline** for traffic cameras
+- 📊 **Traffic pattern analysis** and visualization
+
+---
+
+### 🧠 [Optimizing Deep Learning Models for Text Classification](https://github.com/ngochuong08/Optimizing-DL-Models-For-Text-Classification)
+
+**Performance Optimization & Model Compression**
+
+<div align="left">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+</div>
+
+Research project on optimizing deep learning models for text classification tasks.
+
+**Highlights:**
+
+- ⚡ **Model optimization techniques** (pruning, quantization, distillation)
+- 📊 **Performance benchmarking** across different architectures
+- 🎯 **Accuracy vs. speed trade-offs** analysis
+- 💾 **Model compression** for edge deployment
+
+---
+
+### 📄 [Vietnamese Long Context Summarizer](https://github.com/ngochuong08/vi-longcontext-summarizer)
+
+**NLP for Vietnamese Document Summarization**
+
+<div align="left">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![NLP](https://img.shields.io/badge/Vietnamese_NLP-00ADD8?style=for-the-badge&logo=nlp&logoColor=white)
+
+</div>
+
+Advanced summarization system for long Vietnamese documents using transformer models.
+
+**Features:**
+
+- 📝 **Long document handling** with context preservation
+- 🇻🇳 **Vietnamese language optimization**
+- 🎯 **Extractive & abstractive summarization**
+- ⚡ **Efficient processing** of lengthy texts
+
+---
+
+### 🍎 [Nutrition Application](https://github.com/ngochuong08/nutrition_app)
+
+**AI-powered Nutrition Analysis & Recommendation**
+
+<div align="left">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+</div>
+
+Intelligent nutrition tracking and recommendation system using machine learning.
+
+**Key Features:**
+
+- 🥗 **Food recognition** and calorie estimation
+- 📊 **Personalized nutrition recommendations**
+- 📈 **Progress tracking** and analytics
+- 🎯 **Goal-based meal planning**
+
+---
+
+### 🤖 [Text2SQL Agent](https://github.com/ngochuong08/Text2SQL-Agent)
+
+**Natural Language to SQL Query Generator**
+
+<div align="left">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-00ADD8?style=for-the-badge&logo=nlp&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+AI-powered agent converting natural language queries into SQL using LLMs.
+
+---
+
+### 💬 [Personal AI Chatbot](https://github.com/ngochuong08/me-chatbot)
+
+**Intelligent Conversational AI Assistant**
+
+<div align="left">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+Custom-trained chatbot with personality and domain-specific knowledge.
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Machine Learning & Data Science
+
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### AI & NLP
+
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
+
+### Web Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend & Databases
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+### Tools & Others
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngochuong08&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngochuong08&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ngochuong08&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Arctic Code Vault Contributor** - Code preserved in the Arctic vault
+- 🎯 **21+ Public Repositories** - Active open-source contributor
+- 🤖 **NLP & Deep Learning Projects** - Sentiment analysis, text summarization, RAG systems
+- 🚀 **ML Security & Monitoring** - Real-time network traffic analysis
+- 🏦 **Banking AI Solutions** - RAG-based intelligent assistants
+- 🧠 **Model Optimization** - Deep learning performance tuning
+- 💼 **Full-Stack Projects** - End-to-end application development
+
+---
+
+## 📈 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ngochuong08&theme=react-dark&hide_border=true)](https://github.com/ngochuong08)
+
+---
+
+## 🎓 Expertise Areas
+
+```python
+expertise = {
+    "Machine Learning": ["Classification", "Ensemble Methods", "XGBoost", "Random Forest", "Anomaly Detection"],
+    "Deep Learning": ["Neural Networks", "CNN", "Transformers", "Model Optimization", "Transfer Learning"],
+    "NLP": ["Sentiment Analysis", "Text Summarization", "Vietnamese NLP", "LLMs", "RAG Systems"],
+    "Computer Vision": ["Object Detection", "Video Processing", "Traffic Analysis", "OpenCV"],
+    "Data Science": ["Data Analysis", "Visualization", "Feature Engineering", "Statistical Modeling"],
+    "AI Systems": ["Chatbots", "Text2SQL", "Intelligent Assistants", "Banking AI"],
+    "Web Development": ["Full-Stack", "React", "Angular", "Node.js", "Dash Applications"],
+    "Cybersecurity": ["Network Security", "Traffic Monitoring", "Threat Detection", "Security Analytics"],
+    "Cloud & DevOps": ["Docker", "Kubernetes", "CI/CD", "AWS"],
+    "Databases": ["SQL Server", "MongoDB", "Firebase", "PostgreSQL", "Vector Databases"]
+}
+```
+
+---
+
+## 🌟 Core Competencies
+
+<div align="center">
+
+| Area                 | Skills                                                                                             |
+| -------------------- | -------------------------------------------------------------------------------------------------- |
+| **Machine Learning** | Model Development, Feature Engineering, Hyperparameter Tuning, Anomaly Detection, Ensemble Methods |
+| **Deep Learning**    | Neural Networks, CNN, Transformers, Model Optimization, Transfer Learning, PyTorch/TensorFlow      |
+| **NLP**              | Sentiment Analysis, Text Summarization, Vietnamese NLP, LLMs, RAG, Text Classification             |
+| **Computer Vision**  | Object Detection, Video Processing, Traffic Analysis, Image Classification, OpenCV                 |
+| **Data Science**     | Data Analysis, Statistical Modeling, Data Visualization, ETL Pipelines, Time Series                |
+| **AI Systems**       | Chatbots, Intelligent Assistants, Text2SQL, RAG Applications, Banking AI                           |
+| **Web Development**  | Frontend (React, Angular), Backend (Node.js, .NET), RESTful APIs, GraphQL, Dash Apps               |
+| **DevOps**           | Docker, Kubernetes, CI/CD, Jenkins, Infrastructure as Code, Cloud Deployment                       |
+| **Databases**        | SQL/NoSQL, Query Optimization, Database Design, Vector Databases, Data Modeling                    |
+| **Cybersecurity**    | Network Security, Traffic Monitoring, Threat Detection, Security Analytics                         |
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huongnguyenak96@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chivas-nguyen)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ngochuong08)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://ngochuong08.github.io)
+
+</div>
+
+---
+
+## 💡 Fun Facts
+
+- 🌙 I prefer coding in dark mode
+- 📚 Always learning new technologies
+- 🎯 Love solving complex algorithmic problems
+- 🤝 Open to collaboration on ML and AI projects
+- ☕ Powered by coffee and curiosity
+
+---
+
+<div align="center">
+
+### 💼 Open for opportunities in Machine Learning, AI, and Full-Stack Development
+
+**⭐ Feel free to explore my repositories and don't forget to star ⭐ them if you find something interesting!**
+
+![Snake animation](https://github.com/ngochuong08/ngochuong08/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+_"The best way to predict the future is to invent it." - Alan Kay_
+
+</div>
